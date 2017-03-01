@@ -1,0 +1,9 @@
+{
+  "name": "boost-move",
+  "dependencies": {
+    "boost-assert": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-static-assert": "1.63.0"
+  }
+}
