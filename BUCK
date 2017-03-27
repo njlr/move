@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 prebuilt_cxx_library(
-  name = 'boost-move',
+  name = 'move',
   header_only = True,
   header_namespace = 'boost/move',
   exported_headers = subdir_glob([
